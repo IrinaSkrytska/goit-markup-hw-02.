@@ -61,7 +61,7 @@ header .container {
   font-size: 16px;
   line-height: 1.9;
   color: #fff;
-  background-color: #2196f3;
+  background-color: #188ce8;
 }
 .hidden {
   font-weight: bold;
@@ -71,8 +71,8 @@ header .container {
   opacity: 0;
 }
 .benefits {
-  font-weight: 500;
-  font-size: 16px;
+  font-weight: 700px;
+  font-size: 14px;
   line-height: 1.2;
 }
 .second-title {
@@ -81,7 +81,7 @@ header .container {
   line-height: 1.7;
 }
 .sub-title {
-  font-weight: bold;
+  font-weight: 400px;
   font-size: 14px;
   line-height: 1.4;
   color: #757575;
@@ -131,6 +131,7 @@ button:focus {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.6;
+  letter-spacing: 0.03em;
 }
 .image-name {
   font-weight: bold;
