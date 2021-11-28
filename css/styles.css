@@ -133,6 +133,12 @@ button:focus {
   line-height: 1.6;
   letter-spacing: 0.03em;
 }
+.button-style {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.6;
+  letter-spacing: 0.03em;
+}
 .image-name {
   font-weight: bold;
   font-size: 18px;
